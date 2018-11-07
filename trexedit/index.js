@@ -1096,15 +1096,15 @@ var vitushere = false;
                 dimensions.RESTART_HEIGHT);
         }
     };
-    document.addEventListener('keypress', (event) => {
-        var keyName = event.key;
-        if(keyName === 'o') {
-            vitushere = true;
-        };
-        if(keyName === 'p') {
-            vitushere = false;
-        };
-    })
+    //document.addEventListener('keypress', (event) => {
+    //    var keyName = event.key;
+    //    if(keyName === 'o') {
+    //        vitushere = true;
+    //    };
+    //    if(keyName === 'p') {
+    //        vitushere = false;
+    //    };
+    //})
 
 
     //******************************************************************************
